@@ -1,0 +1,40 @@
+
+[
+    {"id":1,"name":"Sundar Pichai",
+        "pic":"/assets/image/sundar picahi.jpeg",
+        "des":" or Pichai Sundararajan is the current Chief Executive Officer (CEO) of Google. He is one of the few Indians to hold such an important position in the Information Technology (IT) industry.He began his career with McKinsey & Company where he worked in the engineering and product management at Applied Materials. In 2004, he joined Google and led the product team for Google Chrome, Chrome OS and Google Drive. He also oversaw the development of different apps such as Gmail and Google Maps."},
+    {"id":2,"name":"Trishneet Arora" ,
+        "pic":"./assets/image/trishneet arora.jpg",
+      "des":"(born 2 November 1993) is the founder and CEO of TAC Security, an IT security company. Arora has written books on cyber security, ethical hacking and web defence. He was named in Forbes 30 Under 30 2018 Asia list.Trishneet Arora has authored for book The Hacking Era, Hacking TALK with Trishneet Arora  and Hacking with Smart Phones with several technical manuals and given countless lectures, workshops and seminars throughout his career."
+      
+  },
+    {"id":3,"name":"Azim Premji" ,
+        "pic":"/assets/image/azim-premji.jpg",
+      "des":" (born 24 July 1945) is an Indian business tycoon, investor, and philanthropist, who is the chairman of Wipro Limited. He is informally known as the Czar of the Indian IT Industry.Premji has a Bachelor of Science in Electrical Engineering degree .Premji has been recognised by Business Week as one of the Greatest Entrepreneurs for being responsible for Wipro emerging as one of the world's fastest growing companies."
+  },
+    {"id":4,"name":"Kevin Systrom",
+        "pic":"./assets/image/kevin systrom.jpeg",
+        "des":"(born December 30, 1983) is an American computer programmer and entrepreneur. He co‑founded Instagram, the world's largest photo sharing website, along with Mike Krieger. Kevin was included on the list of America's Richest Entrepreneurs Under 40 2016.After graduating Stanford, he joined Google working on Gmail, Google Calendar, Docs, Spreadsheets and other products. He spent two years at Google as a product marketer; Systrom left Google out of frustration of not being moved into the Associate Product Manager program.In 2010, Systrom co‑founded the photo-sharing and, later, video-sharing social networking service Instagram with Mike Krieger in San Francisco, California."
+      },
+    {"id":5,"name":"Lakshmi Mittal",
+        "pic":"./assets/image/lakshmi-mittal.jpg",
+      "des":" ( born 15 June 1950) is an Indian steel magnate, based in the United Kingdom. He is the chairman and CEO of ArcelorMittal, the world's largest steelmaking company. Mittal owns 38% of ArcelorMittal and holds an 11% stake in Queens Park Rangers F.C..In 2005, Forbes ranked Mittal as the third-richest person in the world and become first Indian to be ranked in top ten Forbes list.Mittal has been a member of the board of directors of Goldman Sachs since 2008. He sits on the World Steel Association's executive committee and is a member of the Global CEO Council of the Chinese People's Association for Friendship with Foreign Countries, the Foreign Investment Council in Kazakhstan, the World Economic Forum's International Business Council and the European Round Table of Industrialists.He is also a member of the board of trustees of the Cleveland Clinic."
+  },
+    {"id":6,"name":"Mark Zuckerberg",
+        "pic":"./assets/image/mark zuckerberg.jpeg",
+        "des":" is the self-taught computer programmer and self-made multibillionaire and the co-founder, chairman and CEO of Facebook, Inc., which he founded in his Harvard University dorm room in 2004 along with Dustin Moskovitz, Chris Hughes and Eduardo Saverin.On February 4, 2004, Zuckerberg launched Facebook from his Harvard dormitory room.An earlier inspiration for Facebook may have come from Phillips Exeter Academy, the prep school from which Zuckerberg graduated in 2002. It published its own student directory,The Photo Address Book, which students referred to as The Facebook"
+      
+      },
+    {"id":7,"name":"Shiv Nadar",
+        "pic":"./assets/image/shiv-nadar.jpg",
+        "des":"is the Founder and Chairman of HCL Enterprise, an $8.6 billion global organization with over 137,000 professionals operating from 44 countries. Nadar is credited with being one of the pioneers of the computing and IT industry in India.In 2008, Nadar was awarded Padma Bhushan for his efforts in the IT industry. Nadar, nicknamed by friends as Magus,since the mid-1990s has focused his efforts on developing the educational system of India through the Shiv Nadar Foundation"
+      
+      },
+
+
+    {"id":8,"name":"Dilip Shanghvi",
+        "pic":"./assets/image/dilip-shanghvi.jpg",
+      "des":"born 1 October 1955) is an Indian billionaire businessman and one of the country's richest people. He founded Sun Pharmaceuticals. The Government of India awarded him the civilian honour of the Padma Shri in 2016.India Today magazine ranked him #8th in India's most powerful people of 2017 list.He started by helping his father in his wholesale generic drugs business in Kolkata.It was during this work that he thought of manufacturing his own drugs instead of selling others' products. Shanghvi started Sun Pharmaceutical Industries with capital of INR 10,000 in 1982 at Vapi, with one psychiatry drug. In 1997, Sun acquired Caraco Pharma, a loss-making American company, with the aim of expanding Sun's reach in the United States."
+      }
+]
+ 

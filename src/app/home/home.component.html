@@ -1,0 +1,64 @@
+<!-- <p>
+  home works!
+</p> -->
+<!-- <br>
+<h2>The Most Popular Men</h2>
+<br>
+
+
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th>No.</th>
+      <th>Name</th>
+      <th>Image</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let employee of employees">
+    <tr>
+      <td>{{employee.id}}</td>
+      <td>{{employee.name}}</td>
+      <td><img src="{{employee.pic}}" style="width:100px;height: 100px;"></td>
+      <td><button type="button" class="btn btn-primary">View</button></td>
+    </tr>
+  </tbody>
+</table> -->
+<!-- <ul *ngFor="let employee of employees">
+  <li>{{employee.name}}</li>
+</ul> -->
+<div class="container">
+<div class="page-head">
+  <br>
+  <h2 class="page-title">
+  <span>Technology Trends</span> </h2>
+  <hr class="clear"><div class="archive-desc"><p>Browse this section for the latest hot small business technology trends. Here you will find cool tech gadgets, new small business technology services, technology tips and advice and much more. </p>
+  </div> </div><br>
+  <!-- <div class="card" style="width:400px">
+    <img class="card-img-top" src="https://smallbiztrends.com/wp-content/uploads/2019/05/Web-hosting-620x347.png" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">Web Hosting</h4>
+      <p class="card-text"><a href="https://smallbiztrends.com/2019/05/small-business-web-hosting.html" title="Permalink to Secrets of Web Hosting for your Small Business Revealed" rel="bookmark">Secrets of Web Hosting for your Small Business Revealed</a>
+      </p>
+    </div>
+  </div>
+  <div class="card" style="width:400px;margin-left:500px">
+    <img class="card-img-top" src="https://smallbiztrends.com/wp-content/uploads/2019/05/Disconnected-remote-workers-620x347.png" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">Get rid of the disconnect remote workers feel with company HQ</h4>
+      <p class="card-text"><a href="https://smallbiztrends.com/2019/05/remote-workers-feel-disconnected.html" title="Permalink to 54% of Remote Workers Feel Disconnected from Company, How About Yours?" rel="bookmark">54% of Remote Workers Feel Disconnected from Company, How About Yours?</a>     </p>
+    </div>
+  </div> -->
+ 
+    <div class="root">
+  <div  class="card  col-md-4" style="max-width:340px;" *ngFor="let topic of topics">
+    <img autogrow class="card-img-top" src={{topic.pic}} alt="Card image" style="width:100%">
+    <div  class="card-body">
+      <h4 class="card-title">{{topic.title}}</h4>
+      <p  class="card-text"> <a href="{{topic.content}}">{{topic.para}}</a></p>
+    </div>
+  </div>
+  </div>
+  </div>
+
+

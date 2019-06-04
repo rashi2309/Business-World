@@ -1,0 +1,15 @@
+.card
+{
+    /* position: relative;*/ 
+     /* margin-left:30px;   */
+    margin:15px; 
+    flex-grow:1;
+}
+.root
+{
+    display: flex;
+    flex-wrap: wrap;
+    /* margin:auto; */
+    max-width: 1200;
+
+}
